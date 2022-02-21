@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration of Weichwarenprojekt GbR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weichwarenprojekt/prettier-config.git"
+  },
+  "keywords": [
+    "codestyle"
+  ],
+  "author": "Weichwarenprojekt GbR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weichwarenprojekt/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Weichwarenprojekt/prettier-config#readme"
+}
